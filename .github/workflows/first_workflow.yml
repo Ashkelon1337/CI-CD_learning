@@ -11,10 +11,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-<<<<<<< Updated upstream
-    - name: Display some text
-      run: echo 'Some text'
-=======
       - name: Checkout code
         uses: actions/checkout@v4
 
