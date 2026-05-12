@@ -6,3 +6,7 @@ jobs:
     steps:
     - name: Display some text
       run: echo 'Some text'
+    - name: Command im Multiline
+      run: |
+        node -v
+        npm -v
