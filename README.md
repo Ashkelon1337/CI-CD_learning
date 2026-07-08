@@ -1,1 +1,1 @@
-# CI-CD_learning
+This is just a tutorial project.
